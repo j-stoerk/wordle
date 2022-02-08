@@ -1,3 +1,5 @@
+#credits @Mickey Petersen
+
 import string
 DICT = "C:/Users/juliu/PycharmProjects/pythonProject/venv/Lib/site-packages/pip/_vendor/progress/wordle.txt"
 
